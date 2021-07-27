@@ -19,3 +19,4 @@ Google PWA checklist
 - page transitions don't block network
 - each page has it's own URL
 - site's content is indexed by Google
+- "Audits" tab in dev tools for built-in Lighthouse
